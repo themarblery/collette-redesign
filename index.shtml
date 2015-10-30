@@ -1,0 +1,11 @@
+<!--#include virtual="lib/includes/header.shtml" -->
+
+<div class="hero" style="background-image: url(lib/img/sydney-363244_1280.jpg);">
+    <div class="hero-inner">
+        <h1>Lorem ipsum dolor sit</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, minima.</p>
+        <a href="#" class="btn btn-primary btn-lg">Learn More</a>
+    </div>
+</div>
+
+<!--#include virtual="lib/includes/footer.shtml" -->

@@ -1,0 +1,10 @@
+body {
+    background: $gray-lighter;
+}
+
+.site-content {
+    min-height: 100vh;
+    max-width: $site-width;
+    margin: 0 auto;
+    background: white;
+}
