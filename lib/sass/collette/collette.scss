@@ -1,13 +1,19 @@
+@import url(//fonts.googleapis.com/css?family=Playfair+Display:400italic,700italic|Open+Sans:400,400italic,800,300);
+
 // BOOTSTRAP
 @import "bootstrap-variables";
 @import "../global/bootstrap";
 
-// THEME
+// THEME VARIABLES
 @import "theme-variables";
 
-// GLOBAL
+// GLOBAL STYLES
 @import "../global/base";
 @import "../global/structure";
 
 // COMPONENTS
+@import "../components/cards";
 @import "../components/hero";
+
+// THEME
+@import "typography";

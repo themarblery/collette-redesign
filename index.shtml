@@ -8,4 +8,46 @@
     </div>
 </div>
 
+<section class="page-section">
+    <div class="container-fluid">
+        <header class="section-header text-center">
+            <h2 class="section-title display-1">Tour Styles</h2>
+        </header>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="card text-center">
+                    <a href="#" class="card-bg-img" style="background-image: url(lib/img/horseshoe-bend-768789_1920.jpg)">
+                        <span class="card-bg-text">
+                            <h3 class="display-3">Classic</h3>
+                            <p>Lorem ipsum dolor sit.</p>
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="card text-center">
+                    <a href="#" class="card-bg-img" style="background-image: url(lib/img/venice-918691_1920.jpg)">
+                        <span class="card-bg-text">
+                            <h3 class="display-3">Spotlights</h3>
+                            <p>Single relaxed hotel stay.</p>
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="card text-center">
+                    <a href="#" class="card-bg-img" style="background-image: url(lib/img/15B3406D7A.jpg)">
+                        <span class="card-bg-text">
+                            <h3 class="display-3">Explorations</h3>
+                            <p>Small groups. Big experiences.</p>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.container -->
+</section>
+<!-- /.page-section -->
+
 <!--#include virtual="lib/includes/footer.shtml" -->
